@@ -1,1 +1,1 @@
-This is "text to speech" with js witout Api or Library
+This is "text to speech" with js without Api or Library
