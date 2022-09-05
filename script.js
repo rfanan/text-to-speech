@@ -47,6 +47,6 @@ speechbtn.addEventListener('click', (e) => {
             }
         })
     } else {
-        speechbtn.innerHTML = 'Convert to Speech'
+        speechbtn.innerHTML = 'Convert To Speech'
     }
 })
